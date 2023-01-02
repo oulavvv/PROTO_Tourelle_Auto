@@ -110,4 +110,5 @@ rosrun my_dynamixel_tutorial tir_servo.py
 ```
 
 ## Links to the youtube video
-
+[Valentin's channel](https://youtu.be/gz8jxxPj0K0)
+[Adrien's channel](https://youtu.be/nG4EB50BXwI)

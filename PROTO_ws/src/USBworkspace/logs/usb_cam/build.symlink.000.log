@@ -1,0 +1,23 @@
+Symlinking /home/triton_03/Documents/PROTOROSSETTI/USBworkspace/devel/lib/libusb_cam.so
+Symlinking /home/triton_03/Documents/PROTOROSSETTI/USBworkspace/devel/lib/usb_cam/usb_cam_node
+Symlinking /home/triton_03/Documents/PROTOROSSETTI/USBworkspace/devel/lib/pkgconfig/usb_cam.pc
+Symlinking /home/triton_03/Documents/PROTOROSSETTI/USBworkspace/devel/share/usb_cam/cmake/usb_camConfig-version.cmake
+Symlinking /home/triton_03/Documents/PROTOROSSETTI/USBworkspace/devel/share/usb_cam/cmake/usb_camConfig.cmake
+Cleaning: (/home/triton_03/Documents/PROTOROSSETTI/pasbeaucoup/USBworkspace/devel/.private/usb_cam/cmake.lock, /home/triton_03/Documents/PROTOROSSETTI/pasbeaucoup/USBworkspace/devel/./cmake.lock)
+Cleaning: (/home/triton_03/Documents/PROTOROSSETTI/pasbeaucoup/USBworkspace/devel/.private/usb_cam/lib/libusb_cam.so, /home/triton_03/Documents/PROTOROSSETTI/pasbeaucoup/USBworkspace/devel/lib/libusb_cam.so)
+Cleaning: (/home/triton_03/Documents/PROTOROSSETTI/pasbeaucoup/USBworkspace/devel/.private/usb_cam/lib/usb_cam/usb_cam_node, /home/triton_03/Documents/PROTOROSSETTI/pasbeaucoup/USBworkspace/devel/lib/usb_cam/usb_cam_node)
+Cleaning: (/home/triton_03/Documents/PROTOROSSETTI/pasbeaucoup/USBworkspace/devel/.private/usb_cam/lib/pkgconfig/usb_cam.pc, /home/triton_03/Documents/PROTOROSSETTI/pasbeaucoup/USBworkspace/devel/lib/pkgconfig/usb_cam.pc)
+Cleaning: (/home/triton_03/Documents/PROTOROSSETTI/pasbeaucoup/USBworkspace/devel/.private/usb_cam/share/usb_cam/cmake/usb_camConfig-version.cmake, /home/triton_03/Documents/PROTOROSSETTI/pasbeaucoup/USBworkspace/devel/share/usb_cam/cmake/usb_camConfig-version.cmake)
+Cleaning: (/home/triton_03/Documents/PROTOROSSETTI/pasbeaucoup/USBworkspace/devel/.private/usb_cam/share/usb_cam/cmake/usb_camConfig.cmake, /home/triton_03/Documents/PROTOROSSETTI/pasbeaucoup/USBworkspace/devel/share/usb_cam/cmake/usb_camConfig.cmake)
+Unlinking: /home/triton_03/Documents/PROTOROSSETTI/pasbeaucoup/USBworkspace/devel/./cmake.lock
+Already unlinked: {}
+Unlinking: /home/triton_03/Documents/PROTOROSSETTI/pasbeaucoup/USBworkspace/devel/lib/libusb_cam.so
+Already unlinked: {}
+Unlinking: /home/triton_03/Documents/PROTOROSSETTI/pasbeaucoup/USBworkspace/devel/lib/usb_cam/usb_cam_node
+Already unlinked: {}
+Unlinking: /home/triton_03/Documents/PROTOROSSETTI/pasbeaucoup/USBworkspace/devel/lib/pkgconfig/usb_cam.pc
+Already unlinked: {}
+Unlinking: /home/triton_03/Documents/PROTOROSSETTI/pasbeaucoup/USBworkspace/devel/share/usb_cam/cmake/usb_camConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/triton_03/Documents/PROTOROSSETTI/pasbeaucoup/USBworkspace/devel/share/usb_cam/cmake/usb_camConfig.cmake
+Already unlinked: {}

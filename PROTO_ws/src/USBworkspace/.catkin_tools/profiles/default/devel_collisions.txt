@@ -1,0 +1,1 @@
+/home/triton_03/Documents/PROTOROSSETTI/USBworkspace/devel/./cmake.lock 1

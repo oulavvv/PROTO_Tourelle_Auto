@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/triton_03/Documents/PROTOROSSETTI/YOLO_ROS/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/triton_03/Documents/PROTOROSSETTI/YOLO_ROS/src/darknet_ros/darknet_ros/include/**",
+        "/home/triton_03/Documents/PROTOROSSETTI/YOLO_ROS/src/process/include/**",
+        "/home/triton_03/Documents/PROTOROSSETTI/YOLO_ROS/src/USBworkspace/src/usb_cam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
